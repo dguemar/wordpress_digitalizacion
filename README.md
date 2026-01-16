@@ -1,2 +1,2 @@
 # wordpress_digitalizacion
-Esta página está hecha con wordpress para la asignatura de Digitalización
+Esta página será una landing-page de un profesor de ciberseguridad
